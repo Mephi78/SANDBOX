@@ -1,6 +1,6 @@
 <!-- jump mark TOP | Site Navigation -->
 <a id="top"></a>
-<div align="center" style="display: flex; justify-content: space-between; padding-bottom: 15px;"><a href="../README.md">⬅️ prev</a><a href="../README.md">H🔵ME</a><a href="../README.md">next ➡️</a></div>
+<p align="center"><a href="../README.md">⬅️ prev</a><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAC0lEQVQIW2NgAAIAAAUAAR4f7BQAAAAASUVORK5CYII=" width="80" height="1"><a href="../README.md">H🔵ME</a><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAC0lEQVQIW2NgAAIAAAUAAR4f7BQAAAAASUVORK5CYII=" width="80" height="1"><a href="../README.md">next ➡️</a></p>
 
 # MongoDB
 
@@ -18,7 +18,8 @@ Just some *MongoDb with Node.js* exercises.
 <p align="right"><a href="#top">top ^</a></p>
 
 ## Basics
-Unlike SQL databases in MongoDB we work with 
+Unlike SQL databases MongoDB stores data in `collections` and `documents` (instead of tables and records).  
+
 <p align="right"><a href="#top">top ^</a></p>
 
 ## Content
