@@ -1,9 +1,11 @@
 <!-- jump mark TOP -->
 <a id="top"></a>
-
+> [!IMPORTANT]
+> # Moved to [codeberg.org/Mephi/SANDBOX](https://codeberg.org/Mephi/SANDBOX)
+---
 # SANDBOX
 <!-- Status badges -->
-![x] ![c] ![l] ![s] ![f]</br></br>
+![x]</br></br>
 
 <!-- ToC -->
 <details>
@@ -26,10 +28,7 @@ Made me get used to Ubuntu (WSL) terminal and Git.
 <p align="right"><a href="#top">top ^</a></p>
 
 <!-- Badges -->
-[x]: https://badgen.net/badge/status/experimental/orange
-[c]: https://badgen.net/github/commits/Mephi78/SANDBOX
-[l]: https://badgen.net/github/last-commit/Mephi78/SANDBOX
-[s]: https://badgen.net/github/stars/Mephi78/SANDBOX
-[f]: https://badgen.net/github/forks/Mephi78/SANDBOX
+[x]: https://badgen.net/badge/status/archived/black
+
 
 <!-- external Links -->
